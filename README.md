@@ -1,5 +1,4 @@
-
-# Breast Cancer Classification Model
+# Breast Cancer  Model
 
 ## Project Overview
 
