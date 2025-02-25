@@ -4,7 +4,7 @@
 
 This project implements a **Breast Cancer Classification Model** using **Logistic Regression**. The goal is to classify breast tumors as either **Malignant (M) or Benign (B)** based on input features extracted from biopsy data. The model is trained on labeled data and can make predictions on new, unseen inputs.
 
-## Features and Dataset
+## Features 
 
 - The model is built using **scikit-learn** and trained on a dataset containing **569 samples** with **32 numerical features**.
 - These features describe various attributes of cell nuclei, such as **radius, texture, perimeter, area, and smoothness**.
@@ -27,4 +27,5 @@ This project implements a **Breast Cancer Classification Model** using **Logisti
 
    - The model’s performance is evaluated using **accuracy score**.
    - It is tested on both training and test datasets to check for overfitting or underfitting.
+
 
